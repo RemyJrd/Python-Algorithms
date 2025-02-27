@@ -34,10 +34,13 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 """
 
 class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+    def two_sum(nums, target):
+        seen = {}
+        
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in seen:
+                return [seen[complement], i]
+            seen[num] = i
+        return []
         
