@@ -13,7 +13,7 @@ def allocate_ram(target_gb=10):
         for _ in range(int(target_gb / 0.5)):
             allocated_tensors.append(torch.randn(*size_per_tensor, device="cpu"))
     except RuntimeError:
-        print("🚀 10GB de RAM alloués !")
+        print("10GB de RAM alloués !")
     return allocated_tensors
 
 def allocate_vram(target_gb=4):
@@ -23,7 +23,7 @@ def allocate_vram(target_gb=4):
         for _ in range(int(target_gb / 0.5)):
             allocated_tensors.append(torch.randn(*size_per_tensor, device="cuda"))
     except RuntimeError:
-        print("🚀 4GB de VRAM alloués !")
+        print("4GB de VRAM alloués !")
     return allocated_tensors
 
 ram_tensors = allocate_ram(10)
