@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -28,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
