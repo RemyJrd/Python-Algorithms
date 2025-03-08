@@ -15,11 +15,13 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
@@ -48,6 +51,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RemyJrd/Python-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -63,4 +67,12 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
