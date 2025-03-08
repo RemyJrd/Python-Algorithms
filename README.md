@@ -16,6 +16,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RemyJrd/Python-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -56,4 +59,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RemyJrd/Python-Algorithms/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
