@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/RemyJrd/Python-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RemyJrd/Python-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0141-linked-list-cycle](https://github.com/RemyJrd/Python-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RemyJrd/Python-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RemyJrd/Python-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
