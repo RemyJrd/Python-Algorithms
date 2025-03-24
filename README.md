@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
@@ -76,6 +77,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
