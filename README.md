@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RemyJrd/Python-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RemyJrd/Python-Algorithms/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/RemyJrd/Python-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RemyJrd/Python-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Array
@@ -90,4 +91,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RemyJrd/Python-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RemyJrd/Python-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RemyJrd/Python-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
