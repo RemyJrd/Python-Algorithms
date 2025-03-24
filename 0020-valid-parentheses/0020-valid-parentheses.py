@@ -3,6 +3,9 @@ class Solution:
         stack = []
         pairs = {')': '(', '}': '{', ']': '['}
 
+        if (len(s) % 2) != 0:
+            return False  
+
         for char in s:
             if char in pairs.values():
                 stack.append(char)
