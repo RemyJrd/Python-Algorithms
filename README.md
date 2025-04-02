@@ -22,6 +22,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/RemyJrd/Python-Algorithms/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/RemyJrd/Python-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RemyJrd/Python-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/RemyJrd/Python-Algorithms/tree/master/0792-binary-search) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RemyJrd/Python-Algorithms/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/RemyJrd/Python-Algorithms/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
