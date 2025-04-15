@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
