@@ -22,6 +22,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/RemyJrd/Python-Algorithms/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RemyJrd/Python-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RemyJrd/Python-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RemyJrd/Python-Algorithms/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RemyJrd/Python-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
