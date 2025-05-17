@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1708-design-parking-system](https://github.com/RemyJrd/Python-Algorithms/tree/master/1708-design-parking-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +134,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RemyJrd/Python-Algorithms/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/RemyJrd/Python-Algorithms/tree/master/1708-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/RemyJrd/Python-Algorithms/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
