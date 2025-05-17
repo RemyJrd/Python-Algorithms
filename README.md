@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RemyJrd/Python-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RemyJrd/Python-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RemyJrd/Python-Algorithms/tree/master/0141-linked-list-cycle) |
@@ -25,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RemyJrd/Python-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RemyJrd/Python-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RemyJrd/Python-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RemyJrd/Python-Algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
