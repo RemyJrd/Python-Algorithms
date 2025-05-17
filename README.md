@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RemyJrd/Python-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/RemyJrd/Python-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/RemyJrd/Python-Algorithms/tree/master/0344-reverse-string) |
@@ -22,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/RemyJrd/Python-Algorithms/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RemyJrd/Python-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
