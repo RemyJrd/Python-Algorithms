@@ -32,6 +32,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/RemyJrd/Python-Algorithms/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RemyJrd/Python-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RemyJrd/Python-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RemyJrd/Python-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RemyJrd/Python-Algorithms/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RemyJrd/Python-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/RemyJrd/Python-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RemyJrd/Python-Algorithms/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RemyJrd/Python-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RemyJrd/Python-Algorithms/tree/master/0155-min-stack) |
 ## Prefix Sum
 |  |
