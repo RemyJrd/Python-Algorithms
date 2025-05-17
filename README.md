@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RemyJrd/Python-Algorithms/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/RemyJrd/Python-Algorithms/tree/master/0155-min-stack) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RemyJrd/Python-Algorithms/tree/master/0155-min-stack) |
 | [1708-design-parking-system](https://github.com/RemyJrd/Python-Algorithms/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
