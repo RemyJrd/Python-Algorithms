@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RemyJrd/Python-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RemyJrd/Python-Algorithms/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/RemyJrd/Python-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RemyJrd/Python-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RemyJrd/Python-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RemyJrd/Python-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/RemyJrd/Python-Algorithms/tree/master/0344-reverse-string) |
@@ -83,6 +84,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RemyJrd/Python-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/RemyJrd/Python-Algorithms/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/RemyJrd/Python-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RemyJrd/Python-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/RemyJrd/Python-Algorithms/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RemyJrd/Python-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RemyJrd/Python-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RemyJrd/Python-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/RemyJrd/Python-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RemyJrd/Python-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/RemyJrd/Python-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RemyJrd/Python-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
